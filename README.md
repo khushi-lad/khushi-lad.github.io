@@ -1,4 +1,56 @@
-# Hi there, I'm Khushi! 👋
+# 👋 Hi, I'm Khushi!
+🎓 **Data Science Student | University of Western Ontario**
+
+Welcome to my portfolio! This repository highlights my projects in **data science**, **Python**, and **Java**, showcasing my interests in analystics, problem-solving, and software development.
+
+---
+
+## 📊 Data Science Projects - Google Colab Notebooks
+- 📈 **Data Visualization**
+      Pie charts, bar charts, boxplots, and exploratory graphing.
+- 📉 **Descriptive Statistics**
+      Mean, standard deviation, and distribution analysis.
+- 🔍 **Correlation Analysis**
+      Direction, form, and strength of relationships between variables.
+
+---
+
+## 🐍 Python Projects - PyCharm
+- 🏥 **Healthcare Wait Time Optimizer**
+      Queue modeling and optimization.
+- 🎬 **Movie Night**
+      Movie selection and recommendation logic.
+- 🔐 **Encrypt-o-Matic**
+      Text encryption and string manipulation.
+- ✈️ **Air Travel**
+      Flight and passenger management system.
+
+---
+
+## Java Projects - VSCode
+- 🎲 **Scrabble**
+      Word vaildation, scoring, and gameplay logic.
+- 🔁 **Doubly-Linked List Editor**
+      Custom linked list implementation.
+- 🧭 **Solving the Maze**
+      Pathfinding using recursion.
+- 🌳 **Binary Search Tree**
+      BST implementation and traversal algorithms.
+
+---
+
+
+## 🛠️ Technical Skills
+**Languages:** Python (Proficient), Java (Proficient), C (Proficient), PostgreSQL (Intermediate)
+**Data Analysis:** Pandas (Familiar), NumPy (Familiar), SciPy (Familiar), Excel (Intermediate)
+**Machine Learning:** Scikit-learn (Familiar)
+**Visualization:** Matplotlib (Familiar), Seaborn (Familiar)
+**Tools:** PyCharm (Proficient), VSCode (Proficient), Google Colab (Intermediate)
+
+## 📬 Contact
+📧 **Email:** khushilad27@gmail.com
+🔗 **LinkedIn:** linkedin.com/in/khushi-lad-datascience-uwo 
+
 
 ![Banner Image](your_banner_image_url_here)
 
