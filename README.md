@@ -1,50 +1,50 @@
 # 👋 Hi, I'm Khushi!
 🎓 **Data Science Student | University of Western Ontario**
 
-Welcome to my portfolio! This repository highlights my projects in **data science**, **Python**, and **Java**, showcasing my interests in analystics, problem-solving, and programming.
+Welcome to my portfolio! This repository highlights my projects in **data science**, **Python**, and **Java**, showcasing my interests in analytics, problem-solving, and programming.
 
 ---
 
 ## 📊 Data Science Projects - Google Colab Notebooks
-- 📈 **Data Visualization -**
-      Pie charts, bar charts, boxplots, and exploratory graphing.
-- 📉 **Descriptive Statistics -**
+📈 **Data Visualization -**
+      Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.
+📉 **Descriptive Statistics -**
       Mean, standard deviation, and distribution analysis.
-- 🔍 **Correlation Analysis -**
+🔍 **Correlation Analysis -**
       Direction, form, and strength of relationships between variables.
 
 ---
 
 ## 🐍 Python Projects - PyCharm
-- 🏥 **Healthcare Wait Time Optimizer -**
+🏥 **Healthcare Wait Time Optimizer -**
       Queue modeling, time prediction, and efficiency analysis.
-- 🎬 **Movie Night -**
+🎬 **Movie Night -**
       User input handling, decision logic, and recommendation output.
-- 🔐 **Encrypt-o-Matic -**
+🔐 **Encrypt-o-Matic -**
       Text encryption, string manipulation, and file processing.
-- ✈️ **Air Travel -**
+✈️ **Air Travel -**
       Flight management, passenger tracking, and data validation.
 
 ---
 
 ## ☕ Java Projects - VSCode
-- 🎲 **Scrabble -**
+🎲 **Scrabble -**
       Word vaildation, scoring, and gameplay logic.
-- 🔁 **Doubly-Linked List Editor -**
+🔁 **Doubly-Linked List Editor -**
       Node insertion, bidirectional traversal, and editing operations.
-- 🧭 **Solving the Maze -**
+🧭 **Solving the Maze -**
       Recursion, pathfinding, and grid navigation.
-- 🌳 **Binary Search Tree -**
+🌳 **Binary Search Tree -**
       Tree creation, insertion/searching, and traversal algorithms.
 
 ---
 
 ## 🛠️ Technical Skills
-- 💻 **Languages:** Python (Proficient), Java (Proficient), C (Proficient), PostgreSQL (Intermediate)
-- 📊 **Data Analysis:** Pandas (Familiar), NumPy (Familiar), SciPy (Familiar), Excel (Intermediate)
-- 🤖 **Machine Learning:** Scikit-learn (Familiar)
-- 📈 **Visualization:** Matplotlib (Familiar), Seaborn (Familiar)
-- 🧰 **Tools:** PyCharm (Proficient), VSCode (Proficient), Google Colab (Intermediate)
+💻 **Languages:** Python (Proficient), Java (Proficient), C (Proficient), PostgreSQL (Intermediate)
+📊 **Data Analysis:** Pandas (Familiar), NumPy (Familiar), SciPy (Familiar), Excel (Intermediate)
+🤖 **Machine Learning:** Scikit-learn (Familiar)
+📈 **Visualization:** Matplotlib (Familiar), Seaborn (Familiar)
+🧰 **Tools:** PyCharm (Proficient), VSCode (Proficient), Google Colab (Intermediate)
 
 ## 📬 Contact
 📧 **Email:** khushilad27@gmail.com
