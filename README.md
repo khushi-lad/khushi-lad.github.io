@@ -8,8 +8,10 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## 📊 Data Science Projects - Google Colab Notebooks
 📈 **Data Visualization -**
       Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.
+      
 📉 **Descriptive Statistics -**
       Mean, standard deviation, and distribution analysis.
+      
 🔍 **Correlation Analysis -**
       Direction, form, and strength of relationships between variables.
 
@@ -18,10 +20,13 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## 🐍 Python Projects - PyCharm
 🏥 **Healthcare Wait Time Optimizer -**
       Queue modeling, time prediction, and efficiency analysis.
+      
 🎬 **Movie Night -**
       User input handling, decision logic, and recommendation output.
+      
 🔐 **Encrypt-o-Matic -**
       Text encryption, string manipulation, and file processing.
+      
 ✈️ **Air Travel -**
       Flight management, passenger tracking, and data validation.
 
@@ -30,10 +35,13 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## ☕ Java Projects - VSCode
 🎲 **Scrabble -**
       Word vaildation, scoring, and gameplay logic.
+      
 🔁 **Doubly-Linked List Editor -**
       Node insertion, bidirectional traversal, and editing operations.
+      
 🧭 **Solving the Maze -**
       Recursion, pathfinding, and grid navigation.
+      
 🌳 **Binary Search Tree -**
       Tree creation, insertion/searching, and traversal algorithms.
 
@@ -41,13 +49,18 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 
 ## 🛠️ Technical Skills
 💻 **Languages:** Python (Proficient), Java (Proficient), C (Proficient), PostgreSQL (Intermediate)
+
 📊 **Data Analysis:** Pandas (Familiar), NumPy (Familiar), SciPy (Familiar), Excel (Intermediate)
+
 🤖 **Machine Learning:** Scikit-learn (Familiar)
+
 📈 **Visualization:** Matplotlib (Familiar), Seaborn (Familiar)
+
 🧰 **Tools:** PyCharm (Proficient), VSCode (Proficient), Google Colab (Intermediate)
 
 ## 📬 Contact
 📧 **Email:** khushilad27@gmail.com
+
 🔗 **LinkedIn:** linkedin.com/in/khushi-lad-datascience-uwo 
 
 
