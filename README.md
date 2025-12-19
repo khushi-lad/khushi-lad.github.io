@@ -19,31 +19,31 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 
 ## 🐍 Python Projects - PyCharm
 🏥 **Healthcare Wait Time Optimizer -**
-      Queue modeling, time prediction, and efficiency analysis.
+      User input validation, wait time estimation, and result summarization.
       
 🎬 **Movie Night -**
-      User input handling, decision logic, and recommendation output.
+      User input validation, pricing logic, and total cost calculation.
       
 🔐 **Encrypt-o-Matic -**
-      Text encryption, string manipulation, and file processing.
+      Caesar and Vigenere ciphers, file processing, and frequency analysis.
       
 ✈️ **Air Travel -**
-      Flight management, passenger tracking, and data validation.
+      Flight search, route validation, and maintenance cost analysis.
 
 ---
 
 ## ☕ Java Projects - VSCode
 🎲 **Scrabble -**
-      Word vaildation, scoring, and gameplay logic.
+      Word validation, letter matching, and scoring logic.
       
 🔁 **Doubly-Linked List Editor -**
-      Node insertion, bidirectional traversal, and editing operations.
+      Node management, pointer manipulation, and traversal.
       
 🧭 **Solving the Maze -**
-      Recursion, pathfinding, and grid navigation.
+      Recursive traversal, backtracking, and visualization.
       
 🌳 **Binary Search Tree -**
-      Tree creation, insertion/searching, and traversal algorithms.
+      Recursive insertion, breadth-first traversal, and height calculation.
 
 ---
 
@@ -57,6 +57,8 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 📈 **Visualization:** Matplotlib (Familiar), Seaborn (Familiar)
 
 🧰 **Tools:** PyCharm (Proficient), VSCode (Proficient), Google Colab (Intermediate)
+
+---
 
 ## 📬 Contact
 📧 **Email:** khushilad27@gmail.com
