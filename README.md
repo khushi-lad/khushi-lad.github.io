@@ -11,10 +11,10 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
       [`Assignment1.ipynb`](Data%20Science/Assignment1.ipynb)   
 - **Descriptive Statistics -**
       Mean, standard deviation, and distribution analysis.
-      [`assignment2.ipynb`](data%20science/assignment2.ipynb)
+      [`Assignment2.ipynb`](Data%20Science/Assignment2.ipynb)
 - **Correlation Analysis -**
       Direction, form, and strength of relationships between variables.
-      [`assignment3.ipynb`](data%20science/assignment3.ipynb)
+      [`Assignment3.ipynb`](Data%20Science/Assignment3.ipynb)
 
 ---
 
