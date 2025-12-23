@@ -7,11 +7,14 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 
 ## 📊 Data Science Projects - Google Colab Notebooks
 - **Data Visualization -**
-      Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.    
+      Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.
+      [`assignment1.ipynb`](data%20science/assignment1.ipynb)   
 - **Descriptive Statistics -**
-      Mean, standard deviation, and distribution analysis.  
+      Mean, standard deviation, and distribution analysis.
+      [`assignment2.ipynb`](data%20science/assignment2.ipynb)
 - **Correlation Analysis -**
       Direction, form, and strength of relationships between variables.
+      [`assignment3.ipynb`](data%20science/assignment3.ipynb)
 
 ---
 
