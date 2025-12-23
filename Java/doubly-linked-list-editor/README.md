@@ -20,6 +20,6 @@ Compile and run the program in a Java environment.
 
 ## 📂 Files
 - `DoublyLinkedList.java` – linked list implementation
-- `DoublyLinkedListEditor` – program used to get user input
+- `DoublyLinkedListEditor` – handles user input
 - `Node.java` – node structure
 - `TestDoublyLinkedList.java` – main program used to run and test the implementation
