@@ -12,6 +12,7 @@ A Java program of an implementation of a doubly linked list that supports adding
 ## 💡 Concepts Used
 - Doubly linked data structures
 - Pointers and node manipulation
+- Doubly linked list traversal
 - Object-oriented design
 
 ## ▶️ How to Run
@@ -19,6 +20,6 @@ Compile and run the program in a Java environment.
 
 ## 📂 Files
 - `DoublyLinkedList.java` – linked list implementation
-- `DoublyLinkedListEditor` – 
+- `DoublyLinkedListEditor` – program used to get user input
 - `Node.java` – node structure
-- `TestDoublyLinkedList.java` –
+- `TestDoublyLinkedList.java` – main program used to run and test the implementation
