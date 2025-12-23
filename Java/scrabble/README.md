@@ -1,4 +1,4 @@
-# Scrabble Word Generator
+# Scrabble
 
 ## 📌 Overview
 A Java program that generates all valid Scrabble words from a set of tiles and calculates their corresponding scores using an official word list.
