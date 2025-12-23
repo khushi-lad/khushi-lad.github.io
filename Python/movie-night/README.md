@@ -1,25 +1,23 @@
-# 📌 Project Title
+# Movie Night
 
-## 📖 Overview
-Brief description of what the project does and its purpose.
+## 📌 Overview
+A Python program that allows users to book movie tickets and order concessions, then calculates the final cost including discounts, tax, and booking fees.
 
-## ✨ Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 🛠️ Key Features
+- Interactive menu-driven ordering system
+- Supports multiple ticket types and concession options
+- Applies membership and family package discounts
+- Calculates subtotal, tax, booking fee, and total cost
 
-## 🛠️ Technologies Used
-- Language(s)
-- Libraries / Tools
-
-## 📂 Files
-- `filename1` — what this file does
-- `filename2` — what this file does
-- `filename3` — what this file does
+## 💡 Concepts Used
+- Functions and modular design
+- Input validation
+- Conditional logic
+- Loops and constants
 
 ## ▶️ How to Run
-Brief instructions on how to run or test the project.
+Run the program in a Python environment and follow the prompts in the terminal.
 
-## 📌 Notes
-Optional: assumptions, limitations, or what you learned.
+## 📂 Files
+- `MovieNight.py` – main program file
 
