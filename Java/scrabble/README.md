@@ -13,7 +13,6 @@ A Java program that generates all valid Scrabble words from a set of tiles and c
 - File I/O
 - Arrays and ArrayLists
 - String manipulation
-- Object-oriented programming
 - Sorting algorithms
 
 ## ▶️ How to Run
