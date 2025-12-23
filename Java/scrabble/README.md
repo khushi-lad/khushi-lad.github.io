@@ -19,7 +19,7 @@ A Java program that generates all valid Scrabble words from a set of tiles and c
 Compile and run the program with the required dictionary file in the same directory.
 
 ## 📂 Files
-- `Scrabble.java` – core logic for word generation and scoring
-- `Tile.java` – represents individual Scrabble tiles
-- `TestGame.java` – main program used to run and test the game
 - `CollinsScrabbleWords2019.txt` – dictionary file used to validate words
+- `Scrabble.java` – core logic for word generation and scoring
+- `TestGame.java` – main program used to run and test the game
+- `Tile.java` – represents individual Scrabble tiles
