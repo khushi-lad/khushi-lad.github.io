@@ -19,26 +19,34 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 🐍 Python Projects - PyCharm
-- **Healthcare Wait Time Optimizer -**
-      User input validation, wait time estimation, and result summarization.   
-- **Movie Night -**
-      User input validation, pricing logic, and total cost calculation. 
-- **Encrypt-o-Matic -**
-      Caesar and Vigenere ciphers, file processing, and frequency analysis. 
 - **Air Travel -**
       Flight search, route validation, and maintenance cost analysis.
+      [`python/movie-night`](python/movie-night)
+- **Encrypt-o-Matic -**
+      Caesar and Vigenere ciphers, file processing, and frequency analysis.
+      [`python/encrypt-o-matic`](python/encrypt-o-matic)
+- **Healthcare Wait Time Optimizer -**
+      User input validation, wait time estimation, and result summarization.
+      [`python/healthcare-wait-time-optimizer`](python/healthcare-wait-time-optimizer)  
+- **Movie Night -**
+      User input validation, pricing logic, and total cost calculation.
+      [`python/movie-night`](python/movie-night)
 
 ---
 
 ## ☕ Java Projects - VSCode
-- **Scrabble -**
-      Word validation, letter matching, and scoring logic.  
-- **Doubly-Linked List Editor -**
-      Node management, pointer manipulation, and traversal.
-- **Solving the Maze -**
-      Recursive traversal, backtracking, and visualization.
 - **Binary Search Tree -**
       Recursive insertion, breadth-first traversal, and height calculation.
+      [`java/binary-search-tree`](java/binary-search-tree)
+- **Doubly-Linked List Editor -**
+      Node management, pointer manipulation, and traversal.
+      [`java/doubly-linked-list-editor`](java/doubly-linked-list-editor)
+- **Scrabble -**
+      Word validation, letter matching, and scoring logic.
+      [`java/scrabble`](java/scrabble)
+- **Solving the Maze -**
+      Recursive traversal, backtracking, and visualization.
+      [`java/solving-the-maze`](java/solving-the-maze)
 
 ---
 
