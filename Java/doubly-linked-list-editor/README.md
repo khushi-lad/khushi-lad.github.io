@@ -19,4 +19,6 @@ Compile and run the program in a Java environment.
 
 ## 📂 Files
 - `DoublyLinkedList.java` – linked list implementation
+- `DoublyLinkedListEditor` – 
 - `Node.java` – node structure
+- `TestDoublyLinkedList.java` –
