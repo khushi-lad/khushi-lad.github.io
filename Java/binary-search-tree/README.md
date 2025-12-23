@@ -20,6 +20,6 @@ Compile and run the program in a Java environment.
 
 ## 📂 Files
 - `BinarySearchTree.java` – tree logic and traversal
-- `BinarySearchTreeCollection.java` –
-- `BinarySearchTreeCollectionTests.java` – 
+- `BinarySearchTreeCollection.java` – tree collection logic and traversal
+- `BinarySearchTreeCollectionTests.java` – main program used to run and test the implementation
 - `TreeNode.java` – node structure
