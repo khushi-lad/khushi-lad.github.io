@@ -1,25 +1,24 @@
-# 📌 Project Title
+# Encrypt-o-Matic
 
-## 📖 Overview
-Brief description of what the project does and its purpose.
+## 📌 Overview
+A Python application that encrypts and decrypts text files using Caesar and Vigenère ciphers, with support for frequency analysis of encrypted text.
 
-## ✨ Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 🛠️ Key Features
+- Encrypts and decrypts files using Caesar and Vigenère ciphers
+- Performs frequency analysis on cipher text
+- Handles file validation and error checking
+- Displays letter frequency graphs
 
-## 🛠️ Technologies Used
-- Language(s)
-- Libraries / Tools
-
-## 📂 Files
-- `filename1` — what this file does
-- `filename2` — what this file does
-- `filename3` — what this file does
+## 💡 Concepts Used
+- File I/O
+- String manipulation
+- Error handling
+- Classical cryptography techniques
 
 ## ▶️ How to Run
-Brief instructions on how to run or test the project.
+Run the program in a Python environment and follow the menu prompts.
 
-## 📌 Notes
-Optional: assumptions, limitations, or what you learned.
+## 📂 Files
+- `EncryptOMatic.py` – encryption and decryption logic
+- `main.py` – frequency analysis and menu handling
 
