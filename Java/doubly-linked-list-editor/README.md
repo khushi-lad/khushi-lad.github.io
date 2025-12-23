@@ -1,7 +1,7 @@
 # Doubly Linked List Editor
 
 ## 📌 Overview
-A Java program of an implementation of a doubly linked list that supports adding, removing, reversing, and traversing nodes.
+A Java implementation of a doubly linked list that supports adding, removing, reversing, and traversing nodes.
 
 ## 🛠️ Key Features
 - Add and remove nodes from the list
