@@ -20,5 +20,5 @@ Run the program in a Python environment and follow the menu prompts.
 
 ## 📂 Files
 - [`EncryptOMatic.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/encrypt-o-matic/EncryptOMatic.py) – encryption and decryption logic
-- `main.py`(https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/encrypt-o-matic/main.py) – frequency analysis and menu handling
+- [`main.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/encrypt-o-matic/main.py) – frequency analysis and menu handling
 
