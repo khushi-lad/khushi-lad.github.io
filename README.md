@@ -6,9 +6,8 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 📊 Data Science Projects - Google Colab Notebooks
-- **Data Visualization -**
-      Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.
-      [`Assignment1.ipynb`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science)   
+- [Data Visualization](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science) 
+      Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.  
 - **Descriptive Statistics -**
       Mean, standard deviation, and distribution analysis.
       [`Assignment2.ipynb`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science)  
