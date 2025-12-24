@@ -19,7 +19,7 @@ A Java implementation of a doubly linked list that supports adding, removing, re
 Compile and run the program in a Java environment.
 
 ## 📂 Files
-- `DoublyLinkedList.java` – linked list implementation
-- `DoublyLinkedListEditor` – handles user input
-- `Node.java` – node structure
-- `TestDoublyLinkedList.java` – main program used to run and test the implementation
+- [`DoublyLinkedList.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/doubly-linked-list-editor/DoublyLinkedList.java) – linked list implementation
+- [`DoublyLinkedListEditor`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/doubly-linked-list-editor/DoublyLinkedListEditor.java) – handles user input
+- [`Node.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/doubly-linked-list-editor/Node.java) – node structure
+- [`TestDoublyLinkedList.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/doubly-linked-list-editor/TestDoublyLinkedList.java) – main program used to run and test the implementation
