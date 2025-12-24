@@ -19,6 +19,6 @@ A collection of Google Colab notebooks focused on data visualization and statist
 Open the notebooks in Google Colab or Jupyter Notebook and run the cells sequentially.
 
 ## 📂 Files
-- `Assignment1.ipynb` – data visualization
+- [`Assignment1.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Data%20Science/Assignment1.ipynb) – data visualization
 - `Assignment2.ipynb` – descriptive statistics
 - `Assignment3.ipynb` – correlation analysis
