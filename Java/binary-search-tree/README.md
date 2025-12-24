@@ -19,7 +19,7 @@ A Java implementation of a binary search tree supporting insertion, traversal, n
 Compile and run the program in a Java environment.
 
 ## 📂 Files
-- `BinarySearchTree.java` – tree logic and traversal
+- [`BinarySearchTree.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/binary-search-tree/BinarySearchTree.java) – tree logic and traversal
 - `BinarySearchTreeCollection.java` – tree collection logic and traversal
 - `BinarySearchTreeCollectionTests.java` – main program used to run and test the implementation
 - `TreeNode.java` – node structure
