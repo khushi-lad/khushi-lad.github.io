@@ -20,6 +20,6 @@ Compile and run the program in a Java environment.
 
 ## 📂 Files
 - [`BinarySearchTree.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/binary-search-tree/BinarySearchTree.java) – tree logic and traversal
-- `BinarySearchTreeCollection.java` – tree collection logic and traversal
-- `BinarySearchTreeCollectionTests.java` – main program used to run and test the implementation
-- `TreeNode.java` – node structure
+- [`BinarySearchTreeCollection.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/binary-search-tree/BinarySearchTreeCollection.java) – tree collection logic and traversal
+- [`BinarySearchTreeCollectionTests.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/binary-search-tree/BinarySearchTreeCollectionTests.java) – main program used to run and test the implementation
+- [`TreeNode.java`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Java/binary-search-tree/TreeNode.java) – node structure
