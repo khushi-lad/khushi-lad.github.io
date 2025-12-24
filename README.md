@@ -30,7 +30,7 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
       [`python/healthcare-wait-time-optimizer`](python/healthcare-wait-time-optimizer)  
 - **Movie Night -**
       User input validation, pricing logic, and total cost calculation.
-      [Movie Night](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/movie-night)
+      [`movie-night`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/movie-night)
 
 ---
 
