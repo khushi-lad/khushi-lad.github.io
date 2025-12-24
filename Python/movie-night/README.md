@@ -19,5 +19,5 @@ A Python program that allows users to book movie tickets and order concessions, 
 Run the program in a Python environment and follow the prompts in the terminal.
 
 ## 📂 Files
-- `MovieNight.py` – main program file
+- [`MovieNight.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/movie-night/MovieNight.py) – main program file
 
