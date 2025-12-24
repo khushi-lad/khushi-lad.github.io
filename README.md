@@ -8,23 +8,23 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## 📊 Data Science Projects - Google Colab Notebooks
 - **Data Visualization -**
       Pie charts, bar charts, boxplots, and visual analysis of dataset patterns.
-      [`Assignment1.ipynb`](Data%20Science/Assignment1.ipynb)   
+      [`Assignment1.ipynb`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science)   
 - **Descriptive Statistics -**
       Mean, standard deviation, and distribution analysis.
-      [`Assignment2.ipynb`](Data%20Science/Assignment2.ipynb)
+      [`Assignment2.ipynb`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science)  
 - **Correlation Analysis -**
       Direction, form, and strength of relationships between variables.
-      [`Assignment3.ipynb`](Data%20Science/Assignment3.ipynb)
+      [`Assignment3.ipynb`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Data%20Science)  
 
 ---
 
 ## 🐍 Python Projects - PyCharm
 - **Air Travel -**
       Flight search, route validation, and maintenance cost analysis.
-      [`python/movie-night`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/air-travel)
+      [`movie-night`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/air-travel)
 - **Encrypt-o-Matic -**
       Caesar and Vigenere ciphers, file processing, and frequency analysis.
-      [`python/encrypt-o-matic`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/encrypt-o-matic)
+      [`encrypt-o-matic`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/encrypt-o-matic)
 - **Healthcare Wait Time Optimizer -**
       User input validation, wait time estimation, and result summarization.
       [`healthcare-wait-time-optimizer`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/healthcare-wait-time-optimizer)  
@@ -37,16 +37,16 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## ☕ Java Projects - VSCode
 - **Binary Search Tree -**
       Recursive insertion, breadth-first traversal, and height calculation.
-      [`java/binary-search-tree`](java/binary-search-tree)
+      [`binary-search-tree`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/binary-search-tree)
 - **Doubly-Linked List Editor -**
       Node management, pointer manipulation, and traversal.
-      [`java/doubly-linked-list-editor`](java/doubly-linked-list-editor)
+      [`doubly-linked-list-editor`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/doubly-linked-list-editor)
 - **Scrabble -**
       Word validation, letter matching, and scoring logic.
-      [`java/scrabble`](java/scrabble)
+      [`scrabble`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/scrabble)
 - **Solving the Maze -**
       Recursive traversal, backtracking, and visualization.
-      [`java/solving-the-maze`](java/solving-the-maze)
+      [`solving-the-maze`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/solving-the-maze)
 
 ---
 
