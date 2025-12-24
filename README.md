@@ -21,13 +21,13 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## 🐍 Python Projects - PyCharm
 - **Air Travel -**
       Flight search, route validation, and maintenance cost analysis.
-      [`python/movie-night`](python/movie-night)
+      [`python/movie-night`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/air-travel)
 - **Encrypt-o-Matic -**
       Caesar and Vigenere ciphers, file processing, and frequency analysis.
-      [`python/encrypt-o-matic`](python/encrypt-o-matic)
+      [`python/encrypt-o-matic`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/encrypt-o-matic)
 - **Healthcare Wait Time Optimizer -**
       User input validation, wait time estimation, and result summarization.
-      [`python/healthcare-wait-time-optimizer`](python/healthcare-wait-time-optimizer)  
+      [`healthcare-wait-time-optimizer`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/healthcare-wait-time-optimizer)  
 - **Movie Night -**
       User input validation, pricing logic, and total cost calculation.
       [`movie-night`](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/movie-night)
