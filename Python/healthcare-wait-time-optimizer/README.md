@@ -19,5 +19,5 @@ A Python program that collects patient input and estimates hospital wait times b
 Run the program in a Python environment and follow the prompts in the terminal.
 
 ## 📂 Files
-- `HealthcareWaitTimeOptimizer.py` – main program file
+- [`HealthcareWaitTimeOptimizer.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/healthcare-wait-time-optimizer/HealthcareWaitTimeOptimizer.py) – main program file
 
