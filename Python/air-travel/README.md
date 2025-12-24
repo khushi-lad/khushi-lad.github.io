@@ -19,8 +19,8 @@ A Python program that models airports, flights, and maintenance records to analy
 Run the program in a Python environment with the required data files present.
 
 ## 📂 Files
-- `AirTravel.py` – main program logic
-- `Airport.py` – airport class
-- `Flight.py` – flight class
-- `MaintenanceRecord.py` – maintenance tracking
+- [`AirTravel.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/air-travel/AirTravel.py) – main program logic
+- [`Airport.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/air-travel/Airport.py) – airport class
+- [`Flight.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/air-travel/Flight.py) – flight class
+- [`MaintenanceRecord.py`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python/air-travel/MaintenanceRecord.py) – maintenance tracking
 
