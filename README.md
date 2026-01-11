@@ -39,4 +39,4 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 
 ## 📬 Contact
 - **Email:** khushilad27@gmail.com
-- **LinkedIn:** linkedin.com/in/khushi-lad-datascience-uwo 
+- **LinkedIn:** www.linkedin.com/in/khushi-lad-datascience-uwo
